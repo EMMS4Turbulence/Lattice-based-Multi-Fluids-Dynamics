@@ -1,0 +1,2 @@
+# Lattice-based-Multi-Fluids-Dynamics
+LMFD ( Lattice-based Multi-Fluids Dynamics) is a multiphase flow simulator in framework of lattice Boltzmann method (LBM). It is a program for the modeling and simulation of multiphase flows (mainly gas-solid two-phase flows) at different levels, including macroscopic two-fluid model (TFM), mesoscopic discrete particle simulation (DPS) , and microscopic direct numerical simulation (DNS) .
